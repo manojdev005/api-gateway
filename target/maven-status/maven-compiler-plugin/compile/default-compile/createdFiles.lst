@@ -1,5 +1,0 @@
-com/book/model/Book.class
-com/book/service/BookService.class
-com/book/Application.class
-com/book/controller/BookController.class
-com/book/repository/BookRepository.class
